@@ -1,29 +1,25 @@
-- Hi, I’m @AmanDevNet
-  
-- I’m interested in ...
-- Artificial Intelligence & Machine Learning   
-- Web Development (MERN Stack) 
-- Space Tech & Autonomous Systems  
-- Open Source Collaboration 
-  
-- I’m currently learning ...
-- Advanced Deep Learning (CNN, LSTM, Transformers)   
-- Cloud Services (AWS)   
-- Backend Scaling & Microservices Architecture
-  
-- I’m looking to collaborate on ...
-- AI-based research and innovation projects  
-- Open-source tools for education or social impact  
-- Real-time systems & space technology applications
-  
-- How to reach me ...
-- Email: theamansharma.27@gmail.com
-  
-- Pronouns: ...
-- He/Him
-  
+Hi, I’m Aman Sharma 
+About Me
 
-<!---
-AmanDevNet/AmanDevNet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m passionate about building intelligent systems and solving real-world problems with Machine Learning, AI, and scalable backend systems. I also enjoy working on web technologies, open-source projects, and space tech applications.
+
+Currently Learning
+
+Deep Learning (CNNs, LSTMs, Transformers)
+
+Cloud Computing (AWS)
+
+Scalable Backend & Microservices
+
+Open to Collaborate On
+
+AI/ML research and innovation projects
+
+Open-source tools with social impact
+
+Real-time and autonomous system applications
+
+Connect With Me
+
+Email: theamansharma.27@gmail.com
+Linkedin : https://www.linkedin.com/in/aman-sharma-842b66318/
