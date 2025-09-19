@@ -5,19 +5,11 @@ I’m passionate about building intelligent systems and solving real-world probl
 
 Currently Learning
 
-Deep Learning (CNNs, LSTMs, Transformers)
-
-Cloud Computing (AWS)
-
-Scalable Backend & Microservices
+Deep Learning (CNNs, LSTMs, Transformers), Cloud Computing (AWS), Scalable Backend & Microservices
 
 Open to Collaborate On
 
-AI/ML research and innovation projects
-
-Open-source tools with social impact
-
-Real-time and autonomous system applications
+AI/ML research and innovation projects, Open-source tools with social impact, Real-time and autonomous system applications
 
 Connect With Me
 
