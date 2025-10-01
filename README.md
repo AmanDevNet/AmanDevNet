@@ -1,4 +1,5 @@
-Hi, I’m Aman Sharma 
+Hi, I’m Aman Sharma
+
 About Me
 
 I’m passionate about building intelligent systems and solving real-world problems with Machine Learning, AI, and scalable backend systems. I also enjoy working on web technologies, open-source projects, and space tech applications.
