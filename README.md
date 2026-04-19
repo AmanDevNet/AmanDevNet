@@ -20,7 +20,7 @@
 - Network DVR for retrospective traffic analysis
 
 ### LawWise — RAG-Based AI Legal Assistant
-> Jan 2026 – Present
+> March 2026 – Present
 - Full RAG pipeline: **LangChain + ChromaDB + HuggingFace Transformers**
 - **LoRA fine-tuning** for Indian legal domain adaptation
 - FastAPI backend + MongoDB · Containerized with Docker
