@@ -48,10 +48,6 @@
 ---
 
 
-## GitHub Stats
-
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanDevNet&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanDevNet&layout=compact&theme=github_dark&hide_border=true)
 
 ---
