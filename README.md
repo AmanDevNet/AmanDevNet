@@ -1,18 +1,33 @@
-Hi, I’m Aman Sharma
+# Hi, I'm Aman Sharma 👋
 
-About Me
+ML Engineer focused on RAG systems, computer vision, 
+and anomaly detection on real infrastructure.
 
-I’m passionate about building intelligent systems and solving real-world problems with Machine Learning, AI, and scalable backend systems. I also enjoy working on web technologies, open-source projects, and space tech applications.
+## What I'm building
 
-Currently Learning
+**OmniSight** — Real-time network anomaly detection on 160+ live 
+campus devices. Isolation Forest + ChromaDB + Google Gemini RAG 
+pipeline + D3.js dashboard. Built in 70+ hours on live infra.
 
-Deep Learning (CNNs, LSTMs, Transformers), Cloud Computing (AWS), Scalable Backend & Microservices
+**LawWise** — RAG-based AI legal assistant. LangChain + ChromaDB + 
+LoRA fine-tuning + FastAPI. Makes Indian legal information accessible.
 
-Open to Collaborate On
+**AFS-VFM** — Independent research (in progress). Anticipatory 
+failure signals in vision foundation models. Targeting BMVC/WACV.
 
-AI/ML research and innovation projects, Open-source tools with social impact, Real-time and autonomous system applications
+## Tech I work with
 
-Connect With Me
+Python · PyTorch · LangChain · ChromaDB · HuggingFace Transformers  
+LoRA Fine-tuning · FastAPI · Docker · Isolation Forest · OpenCV  
+OpenAI Whisper · D3.js · MongoDB · scikit-learn · Google Gemini
 
-Email: theamansharma.27@gmail.com
-Linkedin : https://www.linkedin.com/in/aman-sharma-842b66318/
+## Currently
+
+- MCA @ Chandigarh University · Graduating June 2026
+- Independent ML research targeting BMVC / WACV
+- Open to ML engineering internships — India + International
+
+## Connect
+
+📧 theamansharma.27@gmail.com  
+💼 linkedin.com/in/aman-sharma-842b66318
