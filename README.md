@@ -5,14 +5,14 @@ and anomaly detection on real infrastructure.
 
 ## What I'm building
 
-**OmniSight** — Real-time network anomaly detection on 160+ live 
+**OmniSight** - Real-time network anomaly detection on 160+ live 
 campus devices. Isolation Forest + ChromaDB + Google Gemini RAG 
 pipeline + D3.js dashboard. Built in 70+ hours on live infra.
 
-**LawWise** — RAG-based AI legal assistant. LangChain + ChromaDB + 
+**LawWise** - RAG-based AI legal assistant. LangChain + ChromaDB + 
 LoRA fine-tuning + FastAPI. Makes Indian legal information accessible.
 
-**AFS-VFM** — Independent research (in progress). Anticipatory 
+**AFS-VFM** - Independent research (in progress). Anticipatory 
 failure signals in vision foundation models. Targeting BMVC/WACV.
 
 ## Tech I work with
