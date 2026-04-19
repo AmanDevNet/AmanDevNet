@@ -26,7 +26,7 @@
 - FastAPI backend + MongoDB · Containerized with Docker
 
 ### AFS-VFM — Research (In Progress)
-> Targeting BMVC / WACV · Sole-authored
+> Targeting BMVC / WACV · Lead-author
 - Anticipatory failure signals in vision foundation models
 - Phase 1 & 2 complete · Active development ongoing
 
