@@ -35,18 +35,11 @@ Building fault-tolerant multi-agent systems, production RAG architectures, and r
 
 ---
 
-## Tech Stack
+### Technical Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- **Agentic AI & LLMs:** LangGraph (Multi-Agent Workflows), DSPy (Programmatic Prompting), Model Context Protocol (MCP), LoRA / PEFT Fine-Tuning, Retrieval-Augmented Generation (RAG), LangChain, Google ADK
+- **Deep Learning & Computer Vision:** PyTorch, TensorFlow, Hugging Face Transformers, Scikit-learn, DINOv2, CLIP, SigLIP, DETR, OpenCV
+- **Backend, Data & Infrastructure:** Python, FastAPI, PostgreSQL, Qdrant Vector Database, ChromaDB, Docker, SQL, Bash, Linux, GCP
 
 ---
 
@@ -54,9 +47,3 @@ Building fault-tolerant multi-agent systems, production RAG architectures, and r
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanDevNet&layout=compact&theme=github_dark&hide_border=true)
 
 ---
-
-## Currently
-
-- MCA @ Chandigarh University · Graduating **June 2026**
-- Independent ML research targeting **BMVC / WACV**
-- Open to ML Engineering internships · India + International
